@@ -1,2 +1,2 @@
 # C-Programming
-DS from college 
+> It's fast, Hence it's fun
